@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ASPNetCore
+build_property.ProjectDir = /Users/rossstarkey/Dev/ASPNetCore/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

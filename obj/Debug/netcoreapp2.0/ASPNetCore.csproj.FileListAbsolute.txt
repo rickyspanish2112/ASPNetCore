@@ -1,0 +1,10 @@
+/Users/rossstarkey/Dev/ASPNetCore/bin/Debug/netcoreapp2.0/ASPNetCore.deps.json
+/Users/rossstarkey/Dev/ASPNetCore/bin/Debug/netcoreapp2.0/ASPNetCore.runtimeconfig.json
+/Users/rossstarkey/Dev/ASPNetCore/bin/Debug/netcoreapp2.0/ASPNetCore.runtimeconfig.dev.json
+/Users/rossstarkey/Dev/ASPNetCore/bin/Debug/netcoreapp2.0/ASPNetCore.dll
+/Users/rossstarkey/Dev/ASPNetCore/bin/Debug/netcoreapp2.0/ASPNetCore.pdb
+/Users/rossstarkey/Dev/ASPNetCore/obj/Debug/netcoreapp2.0/ASPNetCore.csproj.CoreCompileInputs.cache
+/Users/rossstarkey/Dev/ASPNetCore/obj/Debug/netcoreapp2.0/ASPNetCore.AssemblyInfoInputs.cache
+/Users/rossstarkey/Dev/ASPNetCore/obj/Debug/netcoreapp2.0/ASPNetCore.AssemblyInfo.cs
+/Users/rossstarkey/Dev/ASPNetCore/obj/Debug/netcoreapp2.0/ASPNetCore.dll
+/Users/rossstarkey/Dev/ASPNetCore/obj/Debug/netcoreapp2.0/ASPNetCore.pdb

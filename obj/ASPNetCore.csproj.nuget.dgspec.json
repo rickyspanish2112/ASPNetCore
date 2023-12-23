@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rossstarkey/Dev/ASPNetCore/ASPNetCore.csproj": {}
+  },
+  "projects": {
+    "/Users/rossstarkey/Dev/ASPNetCore/ASPNetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rossstarkey/Dev/ASPNetCore/ASPNetCore.csproj",
+        "projectName": "ASPNetCore",
+        "projectPath": "/Users/rossstarkey/Dev/ASPNetCore/ASPNetCore.csproj",
+        "packagesPath": "/Users/rossstarkey/.nuget/packages/",
+        "outputPath": "/Users/rossstarkey/Dev/ASPNetCore/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rossstarkey/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
